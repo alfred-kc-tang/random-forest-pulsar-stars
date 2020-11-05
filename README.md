@@ -1,4 +1,4 @@
-# [Random Forest on Pulsar Stars](https://alfred-kctang.github.io/random-forest-pulsar-stars/)
+# Random Forest on Pulsar Stars
 
 ## Table of Contents
 
